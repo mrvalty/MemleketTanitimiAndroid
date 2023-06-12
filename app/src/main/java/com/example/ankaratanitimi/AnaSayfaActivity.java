@@ -23,7 +23,7 @@ public class AnaSayfaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ana_sayfa);
-
+//test deneme
         viewPager=(ViewPager) findViewById(R.id.viewPagerMenu);
         tabsMain=(TabLayout) findViewById(R.id.tabsMain);
 
