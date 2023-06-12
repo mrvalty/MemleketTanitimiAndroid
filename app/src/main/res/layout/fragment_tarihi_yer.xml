@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TarihiYerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/anitkabir"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="50dp"
+                android:src="@mipmap/anit_kabir_foreground" />
+
+            <TextView
+                android:id="@+id/textanitkabir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="false"
+                android:layout_marginLeft="20dp"
+                android:text="ANITKABİR"
+                android:textColor="#E40A0A"
+                android:textSize="16dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/textaciklama"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="false"
+                android:layout_marginLeft="20dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="  Türkiye'nin de en çok ziyaret edilen simgesel yapılarından biri olan Anıtkabir, Mustafa Kemal Atatürk'ün anıt mezarını da içeren ve 750.000 m2 gibi büyük bir alana yayılan büyüleyici bir kompleks. 1944’te yapımına başlanan ve 1953 yılında tamamlanan Anıtkabir kompleksini dünyaca ünlü mimarlar Emin Onat ile Orhan Arda tasarladı." />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignWithParentIfMissing="true"
+                android:layout_marginLeft="20dp"
+                android:drawableRight="@mipmap/anit_kabir1_foreground"
+                android:fontFamily="sans-serif-medium"
+                android:text="Atatürk'ün 10 Kasım 1938'deki ölümünün ardından naaşının, Ankara'da bir anıt mezar inşa edilene kadar Ankara Etnografya Müzesi'nde kalacağı açıklandı. Anıt mezarın inşa edileceği yeri belirlemesi amacıyla hükûmet tarafından bir komisyon kuruldu. Hazırlanan rapor doğrultusunda, 17 Ocak 1939'daki Cumhuriyet Halk Partisi meclis grubu toplantısında yapının Rasattepe'ye inşa edilmesine karar verildi">
+
+            </TextView>
+
+            <ImageView
+                android:id="@+id/ankara_kalesi"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="50dp"
+                android:src="@mipmap/ankara_kalesi_foreground" />
+
+            <TextView
+                android:id="@+id/textkale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="false"
+                android:layout_marginLeft="20dp"
+                android:text="ANKARA KALESİ"
+                android:textColor="#E40A0A"
+                android:textSize="16dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignWithParentIfMissing="true"
+                android:layout_marginLeft="20dp"
+                android:fontFamily="sans-serif-medium"
+                android:text=" Ankara Kalesi, Ankara'nın Altındağ ilçesinde bulunan tarihi bir kale. Ne zaman yapıldığı kesin olarak bilinmemekle birlikte M.Ö. 5. yüzyıl başında Galatların Ankara'ya yerleşmeleri sırasında kalenin var olduğu bilinmektedir. Romalılar, Bizanslılar, Selçuklu Hanedanı ve Osmanlılar dönemlerinde birçok kez onarımdan geçmiştir. Ankara Kalesi dışarıdan görümüne göre daha büyüktür. Her yıl çeşitli festivallere de ev sahipliği yapmaktadır.">
+
+            </TextView>
+
+            <ImageView
+                android:id="@+id/hamamonu"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="50dp"
+                android:src="@mipmap/hamam_onu_foreground" />
+            <TextView
+                android:id="@+id/texthamamonu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="false"
+                android:layout_marginLeft="20dp"
+                android:text="HAMAMÖNÜ EVLERİ"
+                android:textColor="#E40A0A"
+                android:textSize="16dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignWithParentIfMissing="true"
+                android:layout_marginLeft="20dp"
+                android:fontFamily="sans-serif-medium"
+                android:text=" Hamamönü, Ankara ilinin Altındağ ilçesinde bulunan tarihi bir bölgedir. Hacettepe Mahallesi sınırlarında kalır. Bölgede bulunan 19. yüzyıl sivil mimarlık örneği tarihi binalar restore edilerek bölge yeniden canlandırılmıştır. Hamamönü, adını bir Türk boyu olan Oğuzların Bayındır boyu beylerinden Karacabey’in yaptırdığı Çifte Hamamdan almıştır. Tarihi Karacabey Hamamı burada bulunmaktadır. İstiklal Marşı’nın yazıldığı Mehmet Akif Ersoy Parkı ve parkın içerisinde Mehmet Akif Ersoy Müze Evi yer almaktadır.">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

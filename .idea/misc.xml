@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable/ankara2_background.xml" value="0.3165" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable/ankara_background.xml" value="0.2155" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable/ankara_tava2_background.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable/ankara_tava_background.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable/ankara_tava_yemek_background.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable/anıtkabir_ankara_background.xml" value="0.2155" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/layout/activity_ana_sayfa.xml" value="0.33" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/layout/activity_main2.xml" value="0.3484375" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/layout/fragment_gezi.xml" value="0.3625" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/layout/fragment_tarihi_yer.xml" value="0.3625" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/layout/fragment_yemek.xml" value="0.3625" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/layout/frg_ana_sayfa.xml" value="0.3625" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara.xml" value="0.3165" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara2_round.xml" value="0.3165" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_kalesi.xml" value="0.3165" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_kalesi_round.xml" value="0.3165" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_round.xml" value="0.3165" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_tava.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_tava2.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_tava2_round.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_tava_round.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_tava_yemek_round.xml" value="0.1965" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/ankara_view_round.xml" value="0.3165" />
+        <entry key="..\:/Users/merve.altay/Desktop/MobilProgramlamaOdev/app/src/main/res/mipmap-anydpi-v26/eymir_golu_round.xml" value="0.3165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

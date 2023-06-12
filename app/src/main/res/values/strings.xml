@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ANKARA TANITIMI</string>
+    <string name="textview">TextView</string>
+    <string name="txt_ad_soyad">TextView</string>
+    <string name="ankara">ANKARA</string>
+    <string name="u212702033">u212702033</string>
+    <string name="samet_inar">SAMET ÇINAR</string>
+    <string name="ba_la">BAŞLA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="y_resel_lezzetler_ekrani">YÖRESEL LEZZETLER EKRANI</string>
+    <string name="g_ster">Göster</string>
+    <string name="ankara_tava">Ankara Tava</string>
+    <string name="todo">TODO</string>
+    <string name="textview1">TextView</string>
+    <string name="ankara_tavas_eski_ankara_mutfa_na_ait_bir_yemektir_ankara_il_s_n_rlar_d_nda_en_iyi_bilinen_yerel_yemeklerden_biridir_2_etli_ve_sebzeli_bir_pilav_veya_ehriye_yeme_idir_e_itli_varyasyonlar_olmakla_beraber_ortak_zellik_etler_ve_sebzelerin_kavrulduktan_sonra_pi_irilecek_ehriye_veya_pilava_eklenmesi_ve_etin_suyu_i_inde_f_r_nda_pi_irilmesidir_geleneksel_olarak_d_n_l_m_h_drellez_mesire_gibi_toplan_lan_zel_zamanlarda_ve_yan_nda_cac_k_tur_u_salata_ya_da_ho_af_ile_yenir_g_n_m_zde_yemekhane_ve_kafeteryalarda_kart_lan_her_t_rl_pilav_zeri_etli_yeme_e_ankara_kebab_denme_e_ilimi_vard_r">Ankara Tavası, eski Ankara mutfağına ait bir yemektir. Ankara il sınırları dışında en iyi bilinen yerel yemeklerden biridir.[2] Etli ve sebzeli bir pilav veya şehriye yemeğidir. Çeşitli varyasyonları olmakla beraber, ortak özellik, etler ve sebzelerin kavrulduktan sonra pişirilecek şehriye veya pilava eklenmesi ve etin suyu içinde fırında pişirilmesidir. Geleneksel olarak düğün, ölüm, hıdrellez, mesire gibi toplanılan özel zamanlarda ve yanında cacık, turşu, salata ya da hoşaf ile yenir. Günümüzde yemekhane ve kafeteryalarda çıkartılan her türlü pilav üzeri etli yemeğe Ankara kebabı denme eğilimi vardır.</string>
+    <string name="todo1">TODO</string>
+</resources>
